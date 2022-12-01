@@ -1,0 +1,6 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="StepInto" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+</keymap>
